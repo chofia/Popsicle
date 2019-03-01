@@ -135,7 +135,7 @@ i{
 }
 
 i:hover{
-    transform:scale(1.3)
+    transform:scale(1.3);
     padding: 5px;transform: rotate(25deg)
 }
 
